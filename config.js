@@ -12,9 +12,6 @@ const APP_CONFIG = {
   title: "My Assignment Calendar",        // Shows in the header and browser tab
   subtitle: "Course A · Course B · Course C — Semester Year",
 
-  // Pin "today" to a specific date for testing, or set to null to use the real date
-  todayOverride: null,
-
   // Shown in the footer — update whenever you re-scrape your course sites
   scrapeDate: "January 1, 2026",
 
